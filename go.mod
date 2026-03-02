@@ -1,4 +1,4 @@
-module github.com/andrey/proto-shared
+module github.com/andreyaici3/proto-shared
 
 go 1.25.0
 
